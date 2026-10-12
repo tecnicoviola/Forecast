@@ -57,7 +57,7 @@ Users pick a region, choose a hazard (**Heatwave** by default, plus Rainfall and
 
 | Item | Link |
 |---|---|
-| Live app | `https://<your-deployed-url>` |
+| Live app | https://forecast-dygnify.netlify.app/ |
 | Demo video (3–5 min) | `https://<your-loom-or-drive-link>` |
 | Demo access | Click **Quick Demo Login (Evaluator Access)** on the sign-in page, no signup needed |
 
