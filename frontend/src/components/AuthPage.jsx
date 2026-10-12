@@ -67,7 +67,7 @@ export default function AuthPage({ onLoginSuccess, onBackToLanding, theme, onTog
           </div>
           <div>
             <h2 style={{ fontSize: '1.25rem', fontWeight: 800 }}>
-              {isSignUp ? 'Create Researcher Account' : 'Welcome to Aetheria'}
+              {isSignUp ? 'Create Researcher Account' : 'Welcome to Forecast'}
             </h2>
             <p style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
               {isSignUp ? 'Join the climate analytics workspace' : 'Sign in to access your saved regions & reports'}

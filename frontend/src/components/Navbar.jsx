@@ -20,7 +20,7 @@ export default function Navbar({
         </div>
         <div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-            <h1 className="brand-title">Aetheria</h1>
+            <h1 className="brand-title">Forecast</h1>
             <span className="live-pill">
               <span className="live-dot" />
               ERA5 LIVE

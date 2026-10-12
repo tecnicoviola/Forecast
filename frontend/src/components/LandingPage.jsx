@@ -11,7 +11,7 @@ export default function LandingPage({ onGetStarted, onLoginClick, theme, onToggl
             <Flame size={22} />
           </div>
           <div>
-            <div className="brand-title" style={{ fontSize: '1.25rem' }}>Aetheria</div>
+            <div className="brand-title" style={{ fontSize: '1.25rem' }}>Forecast</div>
             <div className="brand-subtitle">Climate Hazard Trend Analyzer</div>
           </div>
         </div>

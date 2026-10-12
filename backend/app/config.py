@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Settings(BaseModel):
-    APP_NAME: str = "Aetheria - Climate Hazard Trend Analyzer"
+    APP_NAME: str = "Forecast - Climate Hazard Trend Analyzer"
     API_V1_PREFIX: str = "/api"
     DEBUG: bool = os.getenv("DEBUG", "False").lower() in ("true", "1", "yes")
     
